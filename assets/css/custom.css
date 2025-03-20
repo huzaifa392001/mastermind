@@ -131,6 +131,18 @@ section {
     padding: 5rem 7rem;
 }
 
+.mainHeading {    
+    font-size: 2.5rem;
+    font-weight: 600;
+    line-height: 1.4;        
+    color: var(--white);
+    text-transform: capitalize;
+}
+
+.mainHeading span {
+    color: var(--secondary-color);
+}
+
 .row [class*="col-"] {
     position: relative;
 }
@@ -290,7 +302,7 @@ header .navbar-nav .nav-item:not(.dropdown) .nav-link:hover::before {
     gap: 1.25rem;
 }
 
-.pillsRow + .pillsRow {
+.pillsRow+.pillsRow {
     margin-top: 1.25rem;
 }
 
@@ -302,3 +314,5 @@ header .navbar-nav .nav-item:not(.dropdown) .nav-link:hover::before {
     align-items: center;
     justify-content: center;
 }
+
+/* we-offer */

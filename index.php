@@ -89,4 +89,31 @@
             </span>
         </div>
     </section>
+    <section class="we-offer">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="we-offer__title text-center">
+                        <h2 class="mainHeading">We <span>Offer</span></h2>
+                        <p>
+                            Risus commodo id odio turpis pharetra elementum. Pulvinar porta porta feugiat scelerisque in
+                            elit. Morbi rhoncus, tellus, eros consequat magna semper orci a tincidunt.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="we-offer__card">
+                        <figure class="we-offer__card__img">
+                            <img src="./assets/images/offer-vector1.png" alt="image" class="img-fluid">
+                        </figure>
+                        <div class="we-offer__card__content">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <?php include './includes/footer.php' ?>
