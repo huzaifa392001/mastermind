@@ -310,7 +310,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>  
+                    </div>
                     <div class="swiper-slide">
                         <div class="row align-items-center">
                             <div class="col-md-4">
@@ -340,7 +340,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>  
+                    </div>
                     <div class="swiper-slide">
                         <div class="row align-items-center">
                             <div class="col-md-4">
@@ -370,7 +370,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>  
+                    </div>
                     <div class="swiper-slide">
                         <div class="row align-items-center">
                             <div class="col-md-4">
@@ -400,11 +400,341 @@
                                 </div>
                             </div>
                         </div>
-                    </div>  
+                    </div>
                 </div>
                 <div class="swiper-button-prev themeBtn">Previous</div>
                 <div class="swiper-button-next themeBtn">Next</div>
             </div>
         </div>
     </section>
+
+    <section class="case-studies">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="case-studies__title">
+                        <h6 class="subHeading">Case Studies</h6>
+                        <h2 class="mainHeading">Some Pieces of <span>Our Work</span></h2>
+                        <p>
+                            Risus commodo id odio turpis pharetra elementum. Pulvinar porta porta feugiat scelerisque in
+                            elit. Morbi rhoncus, tellus, eros consequat magna semper orci a tincidunt.
+                        </p>
+                        <div class="mt-4">
+                            <a href="" class="themeBtn">Show More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="case-studies__card">
+                        <figure class="case-studies__card--img">
+                            <img src="./assets/images/case-studies-img1.png" alt="case" class="img-fluid">
+                        </figure>
+                        <div class="case-studies__card--content">
+                            <h6>Website Development</h6>
+                            <h4>Creative landing page</h4>
+                            <a href="">Read More<i class="far fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="case-studies__card">
+                        <figure class="case-studies__card--img">
+                            <img src="./assets/images/case-studies-img2.png" alt="case" class="img-fluid">
+                        </figure>
+                        <div class="case-studies__card--content">
+                            <h6>Website Development</h6>
+                            <h4>Creative landing page</h4>
+                            <a href="">Read More<i class="far fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="case-studies__card">
+                        <figure class="case-studies__card--img">
+                            <img src="./assets/images/case-studies-img3.png" alt="case" class="img-fluid">
+                        </figure>
+                        <div class="case-studies__card--content">
+                            <h6>Website Development</h6>
+                            <h4>Creative landing page</h4>
+                            <a href="">Read More<i class="far fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="case-studies__card">
+                        <figure class="case-studies__card--img">
+                            <img src="./assets/images/case-studies-img4.png" alt="case" class="img-fluid">
+                        </figure>
+                        <div class="case-studies__card--content">
+                            <h6>Website Development</h6>
+                            <h4>Creative landing page</h4>
+                            <a href="">Read More<i class="far fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="case-studies__card">
+                        <figure class="case-studies__card--img">
+                            <img src="./assets/images/case-studies-img5.png" alt="case" class="img-fluid">
+                        </figure>
+                        <div class="case-studies__card--content">
+                            <h6>Website Development</h6>
+                            <h4>Creative landing page</h4>
+                            <a href="">Read More<i class="far fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="case-studies__card">
+                        <figure class="case-studies__card--img">
+                            <img src="./assets/images/case-studies-img6.png" alt="case" class="img-fluid">
+                        </figure>
+                        <div class="case-studies__card--content">
+                            <h6>Website Development</h6>
+                            <h4>Creative landing page</h4>
+                            <a href="">Read More<i class="far fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="case-studies__card">
+                        <figure class="case-studies__card--img">
+                            <img src="./assets/images/case-studies-img7.png" alt="case" class="img-fluid">
+                        </figure>
+                        <div class="case-studies__card--content">
+                            <h6>Website Development</h6>
+                            <h4>Creative landing page</h4>
+                            <a href="">Read More<i class="far fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="case-studies__card">
+                        <figure class="case-studies__card--img">
+                            <img src="./assets/images/case-studies-img8.png" alt="case" class="img-fluid">
+                        </figure>
+                        <div class="case-studies__card--content">
+                            <h6>Website Development</h6>
+                            <h4>Creative landing page</h4>
+                            <a href="">Read More<i class="far fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq-section">
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col-md-5">
+                    <div class="faq__title text-center">
+                        <h6 class="subHeading">FAQ</h6>
+                        <h2 class="mainHeading">Frequently Asked Questions</h2>
+                        <p>
+                            Pellentesque vel consequat amet tincidunt sodales. Idetac tristique lectus sed eu consequat
+                            egestas
+                            dui faucibus.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <div class="faq-accordion accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                    Maximus euismod tellus?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <p>
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea aliquid, tempora
+                                        totam animi odio adipisci omnis magni modi ratione quia?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Maximus euismod tellus?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <p>
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea aliquid, tempora
+                                        totam animi odio adipisci omnis magni modi ratione quia?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Maximus euismod tellus?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <p>
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea aliquid, tempora
+                                        totam animi odio adipisci omnis magni modi ratione quia?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    Maximus euismod tellus?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <p>
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea aliquid, tempora
+                                        totam animi odio adipisci omnis magni modi ratione quia?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="testimonial-section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="testimonial__title">
+                        <h6 class="subHeading">Testimonials</h6>
+                        <h2 class="mainHeading">What People Say <span>About Us</span></h2>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="testimonial__slider__btn">
+                        <div class="swiper-button-prev"></div>
+                        <div class="swiper-button-next"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper testimonial__slider">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="testimonial__card">
+                            <figure class="testimonial__card--img">
+                                <img src="./assets/images/testimonial-img1.png" alt="testimonial" class="img-fluid">
+                                <div class="testimonial__card--name">
+                                    <h5>Brooklyn Simmons <span class="d-block">manam</span></h5>
+                                </div>
+                            </figure>
+                            <div class="testimonial__card--content">
+                                <p>
+                                    Sit ut diam bibendum dolor. Ullamcorper pharetra nibh eget vitae pulvinar. Placerat
+                                    sapien, dolor, aenean vivamus in tincidunt et. Mauris dolor vestibulum et lacus a
+                                    ante orci.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="testimonial__card">
+                            <figure class="testimonial__card--img">
+                                <img src="./assets/images/testimonial-img2.png" alt="testimonial" class="img-fluid">
+                                <div class="testimonial__card--name">
+                                    <h5>Esther Howard <span class="d-block">Offmax</span></h5>
+                                </div>
+                            </figure>
+                            <div class="testimonial__card--content">
+                                <p>
+                                    Vitae tellus bibendum nibh integer auctor pretium sed. Sollicitudin tristique
+                                    euismod elit.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="testimonial__card">
+                            <figure class="testimonial__card--img">
+                                <img src="./assets/images/testimonial-img3.png" alt="testimonial" class="img-fluid">
+                                <div class="testimonial__card--name">
+                                    <h5>Arlene McCoy <span class="d-block">bloopixel</span></h5>
+                                </div>
+                            </figure>
+                            <div class="testimonial__card--content">
+                                <p>
+                                    Eu eu eget lorem commodo sagittis enim in viverra. Urna egestas ipsum gravida
+                                    tempor. Libero, consectetur urna in enim magnis. Est.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="testimonial__card">
+                            <figure class="testimonial__card--img">
+                                <img src="./assets/images/testimonial-img4.png" alt="testimonial" class="img-fluid">
+                                <div class="testimonial__card--name">
+                                    <h5>Jane Cooper <span class="d-block">unpexel</span></h5>
+                                </div>
+                            </figure>
+                            <div class="testimonial__card--content">
+                                <p>
+                                    Amet aliquam, volutpat nisl, duis sed at. Vehicula proin consectetur risus dictumst
+                                    nec amet consequat at tempus. Ornare dapibus nunc fames nibh morbi viverra eu sed
+                                    mattis.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="testimonial__card">
+                            <figure class="testimonial__card--img">
+                                <img src="./assets/images/testimonial-img1.png" alt="testimonial" class="img-fluid">
+                                <div class="testimonial__card--name">
+                                    <h5>Brooklyn Simmons <span class="d-block">manam</span></h5>
+                                </div>
+                            </figure>
+                            <div class="testimonial__card--content">
+                                <p>
+                                    Sit ut diam bibendum dolor. Ullamcorper pharetra nibh eget vitae pulvinar. Placerat
+                                    sapien, dolor, aenean vivamus in tincidunt et. Mauris dolor vestibulum et lacus a
+                                    ante orci.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="testimonial__card">
+                            <figure class="testimonial__card--img">
+                                <img src="./assets/images/testimonial-img2.png" alt="testimonial" class="img-fluid">
+                                <div class="testimonial__card--name">
+                                    <h5>Esther Howard <span class="d-block">Offmax</span></h5>
+                                </div>
+                            </figure>
+                            <div class="testimonial__card--content">
+                                <p>
+                                    Sit ut diam bibendum dolor. Ullamcorper pharetra nibh eget vitae pulvinar. Placerat
+                                    sapien, dolor, aenean vivamus in tincidunt et. Mauris dolor vestibulum et lacus a
+                                    ante orci.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <?php include './includes/footer.php' ?>

@@ -45,4 +45,35 @@ function sliderInit() {
             clickable: true,
         },
     });
+    var testimonial__slider = new Swiper('.testimonial__slider', {
+		loop: true,
+		slidesPerView: 1,
+		spaceBetween: 20,
+		breakpoints: {
+			1024: {
+				slidesPerView: 4,
+				spaceBetween: 20
+			},
+			768: {
+				slidesPerView: 3,
+				spaceBetween: 20
+			},
+			640: {
+				slidesPerView: 2.5,
+				spaceBetween: 10
+			},
+			576: {
+				slidesPerView: 2,
+				spaceBetween: 10
+			},
+			375: {
+				slidesPerView: 1.5,
+				spaceBetween: 10
+			}
+		},
+		navigation: {
+			nextEl: '.swiper-button-next',
+			prevEl: '.swiper-button-prev'
+		},		
+	});
 }
