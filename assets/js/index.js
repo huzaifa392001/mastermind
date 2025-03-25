@@ -1,13 +1,12 @@
-gsap.registerPlugin(ScrollTrigger);
 $(function () {
-    lenisSetup()
-    Fancybox.bind("[data-fancybox]", {
-        // Your custom options
-    });
+    // lenisSetup()
+    sliderInit()
+    // Fancybox.bind("[data-fancybox]", {
+    //     // Your custom options
+    // });
 })
 
-$(window).on("load", () => {
-})
+$(window).on("load", () => {})
 
 function lenisSetup() {
     const lenis = new Lenis({
@@ -29,5 +28,21 @@ function lenisSetup() {
             e.preventDefault();
             lenis.scrollTo(this.getAttribute("href"));
         });
+    });
+}
+
+function sliderInit() {
+    var whychooseSilder = new Swiper('.whychooseSilder', {
+        loop: true,
+        spaceBetween: 30,
+        effect: "fade",
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
     });
 }
